@@ -1,0 +1,476 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.840 --> 00:00:07.680
+For the next subtopic in continuous random&nbsp;
+variables, we'll be looking at the normal&nbsp;&nbsp;
+
+00:00:07.680 --> 00:00:15.520
+distribution. The normal distribution is a&nbsp;
+special type of continuous random variable&nbsp;&nbsp;
+
+00:00:15.520 --> 00:00:24.520
+where the probability density function looks&nbsp;
+like this. We call this a bell-shaped curve.&nbsp;&nbsp;
+
+00:00:24.520 --> 00:00:30.440
+The actual probability density function of the&nbsp;
+normal distribution is something something like&nbsp;&nbsp;
+
+00:00:30.440 --> 00:00:39.320
+the form P(x) = e^-x^2 however we don't&nbsp;
+actually need to know this in SACE stage&nbsp;&nbsp;
+
+00:00:39.320 --> 00:00:47.400
+2 methods. Instead of using a function we think&nbsp;
+about the normal distribution being controlled by&nbsp;&nbsp;
+
+00:00:47.400 --> 00:00:55.840
+two variables - those are the mean, which is the&nbsp;
+middle of the bell-shaped curve (so here) and the&nbsp;&nbsp;
+
+00:00:55.840 --> 00:01:02.160
+standard deviation, which hopefully you remember&nbsp;
+controls the spread of the data. So that's the&nbsp;&nbsp;
+
+00:01:02.160 --> 00:01:09.080
+standard deviation there. When a variable is&nbsp;
+normally distributed, we have special notation&nbsp;&nbsp;
+
+00:01:09.080 --> 00:01:16.800
+we use to write that. It looks like this: x (being&nbsp;
+the continuous random variable) is approximately&nbsp;&nbsp;
+
+00:01:16.800 --> 00:01:21.640
+normally distributed, and then within these&nbsp;
+brackets, we write the mean and then the&nbsp;&nbsp;
+
+00:01:21.640 --> 00:01:28.640
+standard deviation squared. So let's say the time&nbsp;
+I take to get to school is normally distributed&nbsp;&nbsp;
+
+00:01:28.640 --> 00:01:36.640
+with mean 30 and standard deviation 5 minutes we&nbsp;
+would write that as: X is approximately normally&nbsp;&nbsp;
+
+00:01:36.640 --> 00:01:44.840
+distributed with mean 30 and standard deviation 5&nbsp;
+and then we write squared just for the notation.&nbsp;&nbsp;
+
+00:01:44.840 --> 00:01:53.520
+The standard deviation is still five not 25. Most&nbsp;
+continuous random variables can be modelled using&nbsp;&nbsp;
+
+00:01:53.520 --> 00:01:59.840
+a normal distribution if we just set the mean and&nbsp;
+the standard deviation to the appropriate values.&nbsp;&nbsp;
+
+00:02:00.680 --> 00:02:07.400
+This is because of two important properties of the&nbsp;
+curve: firstly, the distribution is symmetrical&nbsp;&nbsp;
+
+00:02:07.400 --> 00:02:14.200
+and most of the data is concentrated around the&nbsp;
+mean, and secondly, as we approach the extremes&nbsp;&nbsp;
+
+00:02:14.200 --> 00:02:21.080
+(so this side and this side), the data becomes&nbsp;
+less frequent. We can see that the example from&nbsp;&nbsp;
+
+00:02:21.080 --> 00:02:27.760
+before fits both of these properties - if I were&nbsp;
+to track the time it took me to get to school on&nbsp;&nbsp;
+
+00:02:27.760 --> 00:02:34.360
+most days of the week it would usually be about 30&nbsp;
+minutes so most of the data would be concentrated&nbsp;&nbsp;
+
+00:02:34.360 --> 00:02:41.560
+around the mean it would be less likely that I&nbsp;
+would take 45 minutes and equally less likely that&nbsp;&nbsp;
+
+00:02:41.560 --> 00:02:48.840
+I would take 15 minutes. So as we go towards&nbsp;
+the extremes, the data becomes less frequent&nbsp;&nbsp;
+
+00:02:48.840 --> 00:02:56.280
+therefore this continuous random variable can be&nbsp;
+modelled using a normal distribution just as for&nbsp;&nbsp;
+
+00:02:56.280 --> 00:03:03.960
+any probability density function we represent&nbsp;
+the the values on the x axis so if I wanted to&nbsp;&nbsp;
+
+00:03:03.960 --> 00:03:10.960
+find the probability of me making it to school&nbsp;
+between 25 and 28 minutes I would draw that like&nbsp;&nbsp;
+
+00:03:10.960 --> 00:03:18.640
+this with the values on the X axis and then the&nbsp;
+probability is found as the area between these&nbsp;&nbsp;
+
+00:03:18.640 --> 00:03:27.960
+two values so this green area would represent the&nbsp;
+probability that X is between 25 and 28 minutes&nbsp;&nbsp;
+
+00:03:27.960 --> 00:03:35.640
+to actually find this probability we can use our&nbsp;
+calculator our calculator is able to calculate&nbsp;&nbsp;
+
+00:03:35.640 --> 00:03:43.080
+areas under the graph for the normal distribution&nbsp;
+so in this case we would go to stat mode and then&nbsp;&nbsp;
+
+00:03:43.080 --> 00:03:53.040
+press distribution normal and then NCD we can then&nbsp;
+input our data so the lower and upper values are&nbsp;&nbsp;
+
+00:03:53.040 --> 00:04:02.560
+25 and 28 and then the mean is 30 and the standard&nbsp;
+deviation is 5 and this gives us a probability of
+
+00:04:02.560 --> 00:04:11.920
+0.859 I'll go through these steps in more detail&nbsp;
+later when we do some practice questions together&nbsp;&nbsp;
+
+00:04:11.920 --> 00:04:17.200
+there is one important property of the normal&nbsp;
+distribution that we need to know and that is&nbsp;&nbsp;
+
+00:04:17.200 --> 00:04:23.880
+because it is symmetrical the mean is the same&nbsp;
+as the median which is the same as the mode we&nbsp;&nbsp;
+
+00:04:23.880 --> 00:04:31.320
+can verify that by looking at the graph the mean&nbsp;
+is here the median is also here because the area&nbsp;&nbsp;
+
+00:04:31.320 --> 00:04:39.200
+on each side is 50% and the mode is here because&nbsp;
+it is the highest value of probability let's do&nbsp;&nbsp;
+
+00:04:39.200 --> 00:04:48.440
+some example questions in the first one we have to&nbsp;
+match normal distributions A and B to X and Y we&nbsp;&nbsp;
+
+00:04:48.440 --> 00:04:54.720
+can see from the graph that A and B have the same&nbsp;
+mean remember we can find the mean by looking at&nbsp;&nbsp;
+
+00:04:54.720 --> 00:05:03.160
+the midpoint of the normal distribution this makes&nbsp;
+sense because X and Y both have mean 10 however&nbsp;&nbsp;
+
+00:05:03.160 --> 00:05:09.760
+distribution a has a larger standard deviation&nbsp;
+than distribution B we can see that because it is&nbsp;&nbsp;
+
+00:05:09.760 --> 00:05:17.320
+more spread out so therefore distribution a must&nbsp;
+be X because X has a higher standard deviation&nbsp;&nbsp;
+
+00:05:17.320 --> 00:05:25.400
+three compared to the standard deviation of&nbsp;
+Y which is two so a is X and B is y second&nbsp;&nbsp;
+
+00:05:25.400 --> 00:05:33.680
+question we have a normally distributed variable&nbsp;
+X with mean 10 and standard deviation 2 firstly&nbsp;&nbsp;
+
+00:05:33.680 --> 00:05:39.880
+we need to find the median so remember that for&nbsp;
+normal distributions the mean median and mode are&nbsp;&nbsp;
+
+00:05:39.880 --> 00:05:46.600
+the same so the mean is going to be 10 and the&nbsp;
+mode is also going to be 10 part C says find the&nbsp;&nbsp;
+
+00:05:46.600 --> 00:05:53.960
+approximate range this is a question which doesn't&nbsp;
+show up very often in tests but the approximate&nbsp;&nbsp;
+
+00:05:53.960 --> 00:06:01.840
+range of a normal distribution is the mean plus&nbsp;
+or minus three standard deviations this is because&nbsp;&nbsp;
+
+00:06:01.840 --> 00:06:08.760
+if we were to calculate this probability we would&nbsp;
+find that it's equal to about 99.7% of all of the&nbsp;&nbsp;
+
+00:06:08.760 --> 00:06:16.120
+data it's not 100% because the true range of the&nbsp;
+normal distribution is from negative Infinity to&nbsp;&nbsp;
+
+00:06:16.120 --> 00:06:21.920
+Infinity see here we can see that these arrows&nbsp;
+go to negative infinity and positive Infinity&nbsp;&nbsp;
+
+00:06:21.920 --> 00:06:28.200
+so in this case finding the lower bound of the&nbsp;
+range we take 10 and we subtract three standard&nbsp;&nbsp;
+
+00:06:28.200 --> 00:06:38.160
+deviations so 3 * 2 that's 10 - 6 which is 4 and&nbsp;
+then to find the upper bound we find 10 plus three&nbsp;&nbsp;
+
+00:06:38.160 --> 00:06:45.760
+standard deviations so that's 10 + 6 which is 16&nbsp;
+then to find the range or the approximate range we&nbsp;&nbsp;
+
+00:06:45.760 --> 00:06:53.280
+just subtract these numbers so 16 - 4 is = 12 if&nbsp;
+you want a visual representation of that it looks&nbsp;&nbsp;
+
+00:06:53.280 --> 00:06:59.400
+something like this so the mean is here and then&nbsp;
+we've got one standard deviation on either side&nbsp;&nbsp;
+
+00:07:00.600 --> 00:07:08.720
+two standard deviations on either side and then&nbsp;
+three and then the approximate range would be this&nbsp;&nbsp;
+
+00:07:08.720 --> 00:07:14.800
+okay now let's look at calculating probabilities&nbsp;
+using the normal distribution so we've got the&nbsp;&nbsp;
+
+00:07:14.800 --> 00:07:21.560
+volume of petrol bought normally distributed&nbsp;
+mean 36 and standard deviation 7 firstly find&nbsp;&nbsp;
+
+00:07:21.560 --> 00:07:26.440
+the median and the mode so remember that the&nbsp;
+median and the mode are always the same as the&nbsp;&nbsp;
+
+00:07:26.440 --> 00:07:34.480
+mean so these will both be 36 Part B says find the&nbsp;
+percentage of customers who buy less than 28 L of&nbsp;&nbsp;
+
+00:07:34.480 --> 00:07:40.640
+petrol so when we're doing a normal distribution&nbsp;
+question there's always three things that we need&nbsp;&nbsp;
+
+00:07:40.640 --> 00:07:47.880
+to do the first thing is that we need to define&nbsp;
+the variable so we write let the volume of petrol&nbsp;&nbsp;
+
+00:07:47.880 --> 00:07:54.720
+bought be X this is so that later when we use the&nbsp;
+letter X the marker knows that we're referring to&nbsp;&nbsp;
+
+00:07:54.720 --> 00:08:02.120
+the volume of petrol Bo secondly we need to State&nbsp;
+the distribution so we say that X is approximately&nbsp;&nbsp;
+
+00:08:02.120 --> 00:08:10.160
+normally distributed with mean 36 and standard&nbsp;
+deviation 7 squared thirdly we need to write the&nbsp;&nbsp;
+
+00:08:10.160 --> 00:08:17.840
+probability statement so in this case we want the&nbsp;
+percentage of customers who buy less than 28 l so&nbsp;&nbsp;
+
+00:08:17.840 --> 00:08:25.520
+each probability statement starts with a p and in&nbsp;
+this case we want the volume of petrol bought to&nbsp;&nbsp;
+
+00:08:25.520 --> 00:08:35.800
+be less than 28 so we write X is less than 28 now&nbsp;
+to calculate this probability we need to use our&nbsp;&nbsp;
+
+00:08:35.800 --> 00:08:42.800
+calculator for the normal distribution we press&nbsp;
+stat mode and then press distribution and then&nbsp;&nbsp;
+
+00:08:42.800 --> 00:08:50.480
+normal there's three options here and which one&nbsp;
+we use depends on what we're trying to find so&nbsp;&nbsp;
+
+00:08:50.480 --> 00:08:58.640
+NCD is when we are given the values and we need&nbsp;
+to find the probability inverse normal is used&nbsp;&nbsp;
+
+00:08:58.640 --> 00:09:05.040
+when we are given the probability and we want&nbsp;
+to find the values so for this question let's&nbsp;&nbsp;
+
+00:09:05.040 --> 00:09:10.480
+draw it out you don't have to do this every time&nbsp;
+but it makes it easier to visualise we know that&nbsp;&nbsp;
+
+00:09:10.480 --> 00:09:18.360
+the mean is 36 and the standard deviation is 7 we&nbsp;
+want to find the probability that X is less than&nbsp;&nbsp;
+
+00:09:18.360 --> 00:09:27.160
+28 so we Mark 28 here and then we want to find&nbsp;
+the probability that X is less than this value&nbsp;&nbsp;
+
+00:09:27.160 --> 00:09:33.160
+so therefore we need to find the area underneath&nbsp;
+this value we can see that in this case we are&nbsp;&nbsp;
+
+00:09:33.160 --> 00:09:41.560
+given a value and we need to find the probability&nbsp;
+so we are going to use NCD the stuff you put into&nbsp;&nbsp;
+
+00:09:41.560 --> 00:09:49.600
+here is pretty self-explanatory so we put mean&nbsp;
+is 36 and standard deviation is 7 now the lower&nbsp;&nbsp;
+
+00:09:49.600 --> 00:09:56.880
+and the upper are the values on the lower bound&nbsp;
+of this area and on the upper Bound in this case&nbsp;&nbsp;
+
+00:09:56.880 --> 00:10:05.240
+we don't have a low bound so we're just going to&nbsp;
+use a really low number so I just use 99999 and&nbsp;&nbsp;
+
+00:10:05.240 --> 00:10:12.560
+the upper bound is 28 then we press execute&nbsp;
+this gives us a probability of approximately
+
+00:10:12.560 --> 00:10:21.320
+0.127 let's do another question to save time&nbsp;
+while I'm reading the question I like to define&nbsp;&nbsp;
+
+00:10:21.320 --> 00:10:28.040
+the variable and write the distribution so we&nbsp;
+read Marathon times are normally distributed&nbsp;&nbsp;
+
+00:10:28.040 --> 00:10:38.400
+therefore I can write let the marathon times b x&nbsp;
+with mean 196 and standard deviation 24 so X is&nbsp;&nbsp;
+
+00:10:38.400 --> 00:10:47.720
+approximately normally distributed with mean&nbsp;
+196 and standard deviation 24 part A we need&nbsp;&nbsp;
+
+00:10:47.720 --> 00:10:54.760
+to find the probability that someone finishes in&nbsp;
+exactly 3 hours so remember the third thing to do&nbsp;&nbsp;
+
+00:10:54.760 --> 00:11:00.880
+is write the probability statement so we always&nbsp;
+start with a p and in this case we want X to be&nbsp;&nbsp;
+
+00:11:00.880 --> 00:11:10.720
+exactly 3 hours so X is equal to 180 just note&nbsp;
+that I converted 3 hours into minutes because&nbsp;&nbsp;
+
+00:11:10.720 --> 00:11:17.520
+all of these units are in minutes now we can&nbsp;
+use the calculator to find this if we want and&nbsp;&nbsp;
+
+00:11:17.520 --> 00:11:25.040
+in this case because X is equal to 180 we would&nbsp;
+put both the lower and the upper to be 180 but&nbsp;&nbsp;
+
+00:11:25.040 --> 00:11:31.720
+remember this property for a continuous random&nbsp;
+variable if we have a continuous random variable&nbsp;&nbsp;
+
+00:11:31.720 --> 00:11:39.200
+which exactly equals a value the probability will&nbsp;
+always be zero and that's because the area under&nbsp;&nbsp;
+
+00:11:39.200 --> 00:11:45.720
+the curve for that straight line is going to be&nbsp;
+zero Part B says find the probability that we&nbsp;&nbsp;
+
+00:11:45.720 --> 00:11:51.200
+finish in more than 3 hours so we've already&nbsp;
+done these first two things and they're not&nbsp;&nbsp;
+
+00:11:51.200 --> 00:11:56.600
+changing for the question so we don't need to do&nbsp;
+them again we just have to write the probability&nbsp;&nbsp;
+
+00:11:56.600 --> 00:12:04.840
+statement always start with p and in this case&nbsp;
+we want X to be more than 3 so X is greater than&nbsp;&nbsp;
+
+00:12:04.840 --> 00:12:11.040
+180 I'm going to sketch the distribution to make&nbsp;
+it easier to visualise although we don't have to&nbsp;&nbsp;
+
+00:12:11.040 --> 00:12:20.320
+do this every time so the mean is 196 standard&nbsp;
+deviation 24 180 would be somewhere around here&nbsp;&nbsp;
+
+00:12:20.320 --> 00:12:26.360
+and we want the probability that X is greater&nbsp;
+than 180 so that's this upper area here now we&nbsp;&nbsp;
+
+00:12:26.360 --> 00:12:34.040
+use our calculator to find this probability so&nbsp;
+because we have the values and we're finding&nbsp;&nbsp;
+
+00:12:34.040 --> 00:12:41.840
+the area or the probability we use NCD the lower&nbsp;
+bound in this case is 180 and the upper bound is&nbsp;&nbsp;
+
+00:12:41.840 --> 00:12:48.760
+infinity so we just put a really high number&nbsp;
+like 99999 we put the mean in which is 196&nbsp;&nbsp;
+
+00:12:48.760 --> 00:12:57.120
+and the standard deviation which is 24 this&nbsp;
+gives us a probability of 0.747 part C says&nbsp;&nbsp;
+
+00:12:57.120 --> 00:13:03.600
+find the probability we finish between between&nbsp;
+164 and 187 minutes so we write the probability&nbsp;&nbsp;
+
+00:13:03.600 --> 00:13:13.040
+statement we want X to be in between 164 and 187&nbsp;
+again I'm going to draw the distribution just to&nbsp;&nbsp;
+
+00:13:13.040 --> 00:13:22.480
+make it easier to visualise so mean of 196 and&nbsp;
+then we want it to be between 164 and 187 that&nbsp;&nbsp;
+
+00:13:22.480 --> 00:13:28.360
+would be this area here once again we are given&nbsp;
+the values and we need to find the probability&nbsp;&nbsp;
+
+00:13:28.360 --> 00:13:35.360
+or the area so we're using NCD the mean and the&nbsp;
+standard deviation are already there from before&nbsp;&nbsp;
+
+00:13:35.360 --> 00:13:42.880
+so we just need to put the lower as 164 and the&nbsp;
+upper as 187 and this gives us a probability&nbsp;&nbsp;
+
+00:13:42.880 --> 00:13:51.760
+of 0.26 so after watching this video you should&nbsp;
+be able to do the following things describe why&nbsp;&nbsp;
+
+00:13:51.760 --> 00:13:58.320
+most continuous random variables can be modelled&nbsp;
+using the normal distribution secondly we need to&nbsp;&nbsp;
+
+00:13:58.320 --> 00:14:04.160
+know the properties of the normal distribution&nbsp;
+including the mean median mode and approximate&nbsp;&nbsp;
+
+00:14:04.160 --> 00:14:10.480
+range remember that the mean median and mode are&nbsp;
+all the same and then the approximate range is&nbsp;&nbsp;
+
+00:14:10.480 --> 00:14:16.480
+the mean plus or minus three standard deviations&nbsp;
+finally and this is where most of the questions&nbsp;&nbsp;
+
+00:14:16.480 --> 00:14:22.040
+will come from we need to find probabilities&nbsp;
+for the normal distribution when we are given&nbsp;&nbsp;
+
+00:14:22.040 --> 00:14:28.200
+values remember that this was using NCD in&nbsp;
+the calculator in the next video we'll look&nbsp;&nbsp;
+
+00:14:28.200 --> 00:14:34.440
+at what when we are given probabilities and we&nbsp;
+need to find the values that's called quantiles
+
